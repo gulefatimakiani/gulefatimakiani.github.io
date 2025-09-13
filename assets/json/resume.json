@@ -1,37 +1,66 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gul e Fatima Kiani",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gkiani@unomaha.edu",
+    "url": "https://gulefatimakiani.github.io",
+    "summary": "xx",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Omaha",
       "countryCode": "US",
-      "region": "California"
+      "region": "Nebraska"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Gul e Fatima Kiani",
+        "url": "https://www.linkedin.com/in/gul-e-fatima-kiani-a2ba33253/?originalSubdomain=pk"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "BRIDGE LAB at Univeristy of Nebraska at Omaha",
+      "position": "Research Assistant",
+      "startDate": "2024-08-21",
+      "endDate": "Present",
+      "summary": "CiC Scaling-up Best Practices in Computing Education at UNO.",
+      "highlights": ["Computing Education"]
+    },
+    {
+      "name": "MALICE LAB at Univeristy of Nebraska at Omaha",
+      "position": "Research Assistant",
+      "startDate": "2023-08-21",
+      "endDate": "2024-08-20",
+      "summary": "Investigated Gen AI potential for phishing email detection and classification.",
+      "highlights": ["Gen AI for Phishing Detection"]
+    },
+    {
+      "name": "Beaconhouse International College",
+      "position": "Programme Leader & Lecturer",
+      "startDate": "2021-08-1",
+      "endDate": "2023-07-31",
+      "summary": "Franchise Programme Leader & Lecturer for University of London and Liverpool John Moores University.Courses taught: Introduction to Programming, Cybersecurity, Web Development, Automata and Computation",
+      "highlights": ["Teaching and Administrative Experience"]
+    },
+    {
+      "name": "International Islamic University",
+      "position": "Lecturer (Visiting)",
+      "startDate": "2019-01-1",
+      "endDate": "2019-06-30",
+      "summary": "Course taught: Fundamentals of Computing",
+      "highlights": ["Teaching Experience"]
+    },
+    {
+      "name": "Ministry of Foreign Affairs",
+      "position": "IT Assistant",
+      "startDate": "2019-09-1",
+      "endDate": "2021-02-30",
+      "summary": "N/A",
+      "highlights": ["N/A"]
     }
+
   ],
   "volunteer": [
     {
