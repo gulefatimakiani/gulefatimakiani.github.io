@@ -1,6 +1,11 @@
 {
+  "private": true,
   "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "^3.1.1"
+    "prettier": "3.3.3",
+    "@shopify/prettier-plugin-liquid": "1.4.0"
+  },
+  "scripts": {
+    "fmt": "prettier --write \"**/*.{md,markdown,yml,yaml,html,scss,js,json}\"",
+    "fmt:check": "prettier --check \"**/*.{md,markdown,yml,yaml,html,scss,js,json}\""
   }
 }
