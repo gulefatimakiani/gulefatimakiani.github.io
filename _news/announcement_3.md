@@ -6,4 +6,5 @@ related_posts: false
 tags: [milestones]
 ---
 
-Presented our paper! "Know Thyself: Investigating Social Relevance and Knowledge Construction in Engineering Design Research" - IDETC, 2025
+Presented our paper! "Know Thyself: Investigating Social Relevance and Knowledge Construction in
+Engineering Design Research" - IDETC, 2025

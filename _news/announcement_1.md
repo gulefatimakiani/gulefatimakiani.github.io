@@ -6,4 +6,5 @@ related_posts: false
 tags: [awards]
 ---
 
-Received an award! DED Special Initiative Award for Broadening Participation in Engineering Design Education
+Received an award! DED Special Initiative Award for Broadening Participation in Engineering Design
+Education

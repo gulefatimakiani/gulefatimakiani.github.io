@@ -82,4 +82,5 @@ which generates:
 .------------------------.
 ```
 
-For more examples, check out the [typograms documentation](https://google.github.io/typograms/#examples).
+For more examples, check out the
+[typograms documentation](https://google.github.io/typograms/#examples).

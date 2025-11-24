@@ -6,4 +6,5 @@ related_posts: false
 tags: [milestones]
 ---
 
-Paper Presented! "A Framework for Analyzing Goal Alignment and Social Relevance of Research Papers to Identify Impact of Women in Design Research Communities" - ICED, 2025
+Paper Presented! "A Framework for Analyzing Goal Alignment and Social Relevance of Research Papers
+to Identify Impact of Women in Design Research Communities" - ICED, 2025
