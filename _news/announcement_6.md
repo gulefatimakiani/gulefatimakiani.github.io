@@ -6,4 +6,4 @@ related_posts: false
 tags: [milestones]
 ---
 
-Our poster got accepted! "Bridging the Experience Gap: An Informed Self-Placement Approach to Introductory Programming"  - SIGCSE TS, 2025
+Our poster got accepted! "Bridging the Experience Gap: An Informed Self-Placement Approach to Introductory Programming" - SIGCSE TS, 2025
