@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "IDETC Presentation"
 date: 2025-08-17
 inline: true
 related_posts: false

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "GRACA Award"
 date: 2025-10-12
 inline: true
 related_posts: false

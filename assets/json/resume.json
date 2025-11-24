@@ -21,15 +21,14 @@
   },
   "work": [
     {
-      "name": "BRIDGE LAB at Univeristy of Nebraska at Omaha",
+      "name": "BRIDGE LAB at University of Nebraska at Omaha",
       "position": "Research Assistant",
       "startDate": "2024-08-21",
-      "endDate": "Present",
       "summary": "CiC Scaling-up Best Practices in Computing Education at UNO.",
       "highlights": ["Computing Education"]
     },
     {
-      "name": "MALICE LAB at Univeristy of Nebraska at Omaha",
+      "name": "MALICE LAB at University of Nebraska at Omaha",
       "position": "Research Assistant",
       "startDate": "2023-08-21",
       "endDate": "2024-08-20",
@@ -39,7 +38,7 @@
     {
       "name": "Beaconhouse International College",
       "position": "Programme Leader & Lecturer",
-      "startDate": "2021-08-1",
+      "startDate": "2021-08-01",
       "endDate": "2023-07-31",
       "summary": "Franchise Programme Leader & Lecturer for University of London and Liverpool John Moores University.Courses taught: Introduction to Programming, Cybersecurity, Web Development, Automata and Computation",
       "highlights": ["Teaching and Administrative Experience"]
@@ -47,7 +46,7 @@
     {
       "name": "International Islamic University",
       "position": "Lecturer (Visiting)",
-      "startDate": "2019-01-1",
+      "startDate": "2019-01-01",
       "endDate": "2019-06-30",
       "summary": "Course taught: Fundamentals of Computing",
       "highlights": ["Teaching Experience"]
@@ -55,7 +54,7 @@
     {
       "name": "Ministry of Foreign Affairs",
       "position": "IT Assistant",
-      "startDate": "2019-09-1",
+      "startDate": "2019-09-01",
       "endDate": "2021-02-30",
       "summary": "N/A",
       "highlights": ["N/A"]
@@ -153,17 +152,17 @@
     {
       "name": "Andrea Grover",
       "icon": "fa-solid fa-laptop",
-      "reference": "Associate Professor at UNO\n andreagrover@unomaha.edu"
+      "reference": "Associate Professor at UNO\\n andreagrover@unomaha.edu"
     },
     {
       "name": "Matthew L. Hale",
       "icon": "fa-solid fa-laptop",
-      "reference": "Director/Associate Professor at UNO\n mlhale@unomaha.edu"
+      "reference": "Director/Associate Professor at UNO\\n mlhale@unomaha.edu"
     },
     {
       "name": "Christine Toh",
       "icon": "fa-solid fa-laptop",
-      "reference": "Assitant Professor at James Madison University\n wdcmt8@jmu.edu"
+      "reference": "Assitant Professor at James Madison University\\n wdcmt8@jmu.edu"
     }
   ]
 }

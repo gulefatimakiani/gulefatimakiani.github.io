@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Poster Accepted"
 date: 2025-11-12
 inline: true
 related_posts: false

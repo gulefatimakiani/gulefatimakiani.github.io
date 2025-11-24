@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "ICED presentation"
 date: 2025-08-14
 inline: true
 related_posts: false
