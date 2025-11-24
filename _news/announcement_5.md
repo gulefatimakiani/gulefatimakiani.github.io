@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-08-17
+date: 2025-10-10
 inline: true
 related_posts: false
+tags: [awards]
 ---
 
-Presented our paper! "Know Thyself: Investigating Social Relevance and Knowledge Construction in Engineering Design Research" - IDETC, 2025
+Awarded the UNO Graduate Research and Creative Activity (GRACA) fund ($5,000) to conduct the proposed study - GRACA UNO, 2025
