@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: Ph.D. S Candidate Pursuit · Art lover by heart
+subtitle: Ph.D. Candidate by Pursuit · Art lover by heart
 
 profile:
   align: right
