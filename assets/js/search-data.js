@@ -16,33 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -410,6 +389,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-officially-a-ph-d-candidate-after-successfully-completing-my-candidacy-exam-2025",
           title: 'Officially a Ph.D. candidate after successfully completing my candidacy exam - 2025',
+          description: "",
+          section: "News",},{id: "news-presented-our-poster-bridging-the-experience-gap-an-informed-self-placement-approach-to-introductory-programming-at-sigcse-ts-2026-2026",
+          title: 'Presented our poster “Bridging the Experience Gap: An informed Self-placement Approach to Introductory...',
+          description: "",
+          section: "News",},{id: "news-our-paper-has-been-accepted-at-annual-asee-conference-ethics-of-justice-and-ethics-of-care-using-generative-ai-with-speculative-fiction-to-assess-students-ethical-reasoning-skills-2026",
+          title: 'Our paper has been accepted at Annual ASEE conference! “Ethics of Justice and...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-accepted-into-doctoral-consortium-iticse-2026-madrid-2026",
+          title: 'I have been accepted into doctoral consortium, ITiCSE 2026, Madrid - 2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
