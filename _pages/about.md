@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Ph.D. candidate in Computing Education at the University of Nebraska at Omaha,
+I am a fourth-year Ph.D. candidate in Computing Education at the University of Nebraska at Omaha,
 where I am part of the BRIDGE Lab in the College of Information Science & Technology. My
 dissertation explores how students transfer programming concepts from their first to a second
 programming language. I am especially interested in understanding the strategies that distinguish
