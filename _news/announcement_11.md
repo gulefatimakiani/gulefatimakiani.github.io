@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "paper accepted at SIGCSE V 2026"
-date: 2026-03-16
+date: 2026-07-25
 inline: true
 related_posts: false
 tags: [milestones]
